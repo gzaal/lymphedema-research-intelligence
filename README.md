@@ -161,4 +161,16 @@ The pipeline, dashboard, scoring model, and schema guard are all reusable as-is 
 
 ## License
 
-Personal project shared for reference. No warranty; use at your own risk. Not medical advice.
+The original source code and repository-authored documentation in this project
+are licensed under the [MIT License](LICENSE).
+
+Research publications, abstracts, article metadata, clinical-trial records,
+datasets, APIs, and linked services are third-party material. They are not
+relicensed by this repository and remain subject to their respective
+copyright, database rights, terms of service, and licenses. Check the source
+terms before copying or redistributing them.
+
+This is a personal research tool shared for reference. Its automatically
+generated summaries and findings may contain errors, are not medical advice,
+and are provided without any warranty. Verify claims against primary sources
+and consult a qualified clinician before making health decisions.
